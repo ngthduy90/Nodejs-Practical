@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-practical",
+  "version": "1.0.0",
+  "description": "For practicing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ngthduy90@github.com/ngthduy90/Nodejs-Practical.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngthduy90/Nodejs-Practical/issues"
+  },
+  "homepage": "https://github.com/ngthduy90/Nodejs-Practical#readme",
+  "dependencies": {
+    "commander": "^2.15.0"
+  }
+}
